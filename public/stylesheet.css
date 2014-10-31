@@ -231,6 +231,10 @@ padding:0 50px;
   margin:4%;
 }
 
+button a {
+  text-decoration: none;
+}
+
 
 
 
