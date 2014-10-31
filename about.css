@@ -1,0 +1,67 @@
+.history {
+	margin-left: 30px;
+	margin-right: 30px;
+	margin-bottom: 50px;
+}
+
+.history h4 {
+	font-size: 30px;
+}
+
+.history p {
+	margin-top: -15px;
+}
+
+
+
+.faculty .fac1 img {
+	width: 100px;
+	display: inline-block;
+	float:left;
+	position: relative;
+}
+
+.faculty .fac2 img {
+	width: 100px;
+	display: inline-block;
+	float:left;
+	position: relative;
+}
+
+.faculty .fac3 img {
+	width: 100px;
+	display: inline-block;
+	float:left;
+	position: relative;
+}
+
+.faculty .fac4 img {
+	width: 100px;
+	display: inline-block;
+	float:left;
+	position: relative;
+}
+
+.bio {
+	margin-bottom: 30px;
+	background-color: #eee;
+	display: inline-block;
+	position: relative;
+	margin-left: 20px;
+	margin-right: 20px;
+	border-radius: 8px;
+}
+
+.bio img {
+	border-top-left-radius: 8px;
+	border-bottom-left-radius: 8px
+}
+
+.bio p {
+	display: inline-block;
+	margin-left: 125px;
+	margin-top: -80px;
+	padding-right: 20px;
+	float: left;
+	position: relative;
+}
